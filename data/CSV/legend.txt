@@ -1,0 +1,44 @@
+Key Legend
+───────────────────────────────────────────────
+Ra*_key         used to navigate through different Rayleigh N in simulations
+Porosity        porosity of the domain
+Perm            permeability K
+l               throat length
+H               domain height
+Tortuosity      tortuosity of porous medium
+Da              Darcy number
+Re_N.D.         non-Darcy Reynolds criterium
+tau_f           LBM relaxation time for fluid
+kinVisc         ν, kinematic viscosity
+C_f             form drag coefficient of porous medium
+ks/kf           solid-to-fluid conductivity ratio
+kf/ks           inverse of ks/kf
+kf/km           fluid-to-effective conductivity ratio
+Pr_f            fluid Prandtl number
+nu/alpha_m      ratio of ν to α_m (effective thermal diffusivity)
+Pr_e            effective Prandtl number
+Pr_p            porous medium Prandtl number
+Ra_f            fluid Rayleigh number
+Ra*             Darcy-type Rayleigh number
+Ra*/Pr_p        scaled Rayleigh number criterion
+Ra*/Pr*         scaled Rayleigh number with Darcy reference
+Nu              Nusselt number
+Nu/Pr_p         Nusselt number scaled by porous Prandtl
+Nu/(Ra*/40)     Nusselt scaling with Elder’s critical Rayleigh (40)
+delta_thermal   thermal boundary layer thickness
+Lambda          dynamic confinement parameter (δ/b)
+Re_l            Reynolds number with throat length scale
+Re_z,K          Reynolds number with vertical velocity and permeability scale
+Re_K            Reynolds number with permeability-based scale
+E_kin_z         kinetic energy from vertical velocity
+Epsilon_tot     total dissipation rate (thermal + kinetic)
+Epsilon_th      thermal dissipation rate
+Epsilon_kin     kinetic dissipation rate
+Std_tot         standard deviation of total dissipation
+Std_th          standard deviation of thermal dissipation
+Std_kin         standard deviation of kinetic dissipation
+DEpsTot         relative std of total dissipation
+DEpsKin         relative std of kinetic dissipation
+DEpsTh          relative std of thermal dissipation
+Osc             oscillation indicator (from Nusselt time series, qualitative)
+
