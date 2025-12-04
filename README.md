@@ -1,10 +1,10 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 <div align="center">
-  <a href="https://opensource.org/licenses/mit">
+  <a target="_blank" rel="noopener noreferrer" style="text-decoration: none;" href="https://opensource.org/licenses/mit">
     <img alt="Code license: MIT" src="https://img.shields.io/badge/code%20license-mit-greene.svg?style=for-the-badge&logo=Open+Source+Initiative&logoColor=white">
   </a><span>&nbsp;</span>
-  <a href="https://creativecommons.org/licenses/by/4.0/">
+  <a  target="_blank" rel="noopener noreferrer" style="text-decoration: none;" href="https://creativecommons.org/licenses/by/4.0/">
     <img alt="Assets license: CC-BY" src="https://img.shields.io/badge/assets%20license-by%204.0-greene.svg?style=for-the-badge&logo=creative-commons&logoColor=white">
   </a>
   </a><span>&nbsp;</span>
